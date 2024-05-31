@@ -1,4 +1,4 @@
-## Hi there 👋
+![unium banner!!](https://raw.githubusercontent.com/TheUnium/theunium/main/banner_thin.png)<br>
 
 <!--
 **TheUnium/theunium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
